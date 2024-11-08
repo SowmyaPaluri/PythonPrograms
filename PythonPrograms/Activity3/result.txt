@@ -1,0 +1,4 @@
+The number of articles in txt.txt file are 7
+The sky above is pink
+A balloon is in the sky
+The balloon is blue
